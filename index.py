@@ -1,6 +1,3 @@
-# python index.py --dataset dataset --index index.csv
-
-# import the necessary packages
 from featuregetter import featuregetter
 import argparse
 import glob
